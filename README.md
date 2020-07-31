@@ -15,4 +15,5 @@ turmeric, star anise, poppy seeds, and garam masala as far as the eye can see.
 Some of our strongest geographic and cultural associations are tied to a region's local foods.
 This playground competitions asks you to predict the category of a dish's cuisine given a list of its ingredients.
 
-LINK : https://www.kaggle.com/c/whats-cooking
+
+Here is a demo application of the review classifier : https://blooming-waters-40086.herokuapp.com/
